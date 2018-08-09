@@ -1,0 +1,21 @@
+{
+  "name": "begin-functions-app",
+  "version": "1.0.0",
+  "description": "Begin app",
+  "scripts": {
+    "lint": "eslint src --ignore-pattern node_modules --fix",
+    "test": "NODE_ENV=testing tape test/*-test.js | tap-spec",
+    "start": "NODE_ENV=testing ARC_LOCAL=1 npx sandbox"
+  },
+  "dependencies": {
+    "@architect/workflows": "latest",
+    "@begin-functions/data": "latest",
+    "eslint": "^4.19.1",
+    "tap-spec": "^4.1.2",
+    "tape": "^4.9.1",
+    "tiny-json-http": "latest"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.256.1"
+  }
+}
