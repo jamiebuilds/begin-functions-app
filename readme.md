@@ -14,3 +14,4 @@
 - [Creating new routes](https://docs.begin.com/en/routes-functions/creating-new-routes/) - basics on expanding the capabilities of your app
 
 Head to [docs.begin.com](https://docs.begin.com/) to learn more!
+
