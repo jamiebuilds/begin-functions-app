@@ -1,0 +1,7 @@
+{
+  "name": "web-d5p-get-clementine",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
