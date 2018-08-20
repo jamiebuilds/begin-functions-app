@@ -7,3 +7,4 @@ get /about
 
 @json
 get /meta
+get /clementine
