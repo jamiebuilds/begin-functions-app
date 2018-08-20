@@ -1,6 +1,6 @@
 {
   "name": "begin-functions-app",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Begin app",
   "scripts": {
     "lint": "eslint src --ignore-pattern node_modules --fix",
